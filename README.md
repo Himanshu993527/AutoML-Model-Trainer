@@ -89,7 +89,7 @@ AutoML-Streamlit/
 git clone https://github.com/your-username/AutoML-Streamlit.git
 cd AutoML-Streamlit
 ---
-##🧪 Usage
+## 🧪 Usage
 
 1. Upload a CSV file
 2. Select the target variable
@@ -98,7 +98,7 @@ cd AutoML-Streamlit
 5. Enter new feature values for prediction
 6. Download the trained model
 ---
-##📸 Screenshots / Demo
+## 📸 Screenshots / Demo
 
 1. Add screenshots of:
 2. Dataset upload
@@ -106,7 +106,7 @@ cd AutoML-Streamlit
 4. Feature importance graph
 5. Prediction output
 ---
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 1. Hyperparameter tuning
 2. Cross-validation
@@ -115,13 +115,13 @@ cd AutoML-Streamlit
 5. Cloud deployment (Streamlit Cloud)
 6. Auto feature scaling and encoding
 ---
-##👤 Author
+## 👤 Author
 
 Himanshu Singh
 🎓 Data Analytics & Machine Learning Enthusiast
 📧 Email: himanshusinghchandel5555@gmail.com
 ---
-##⭐ If you like this project
+## ⭐ If you like this project
 
 Give it a ⭐ on GitHub — it motivates me to build more!
 ---
