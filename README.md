@@ -89,7 +89,7 @@ AutoML-Streamlit/
 git clone https://github.com/your-username/AutoML-Streamlit.git
 cd AutoML-Streamlit
 ---
-###🧪 Usage
+##🧪 Usage
 
 1. Upload a CSV file
 2. Select the target variable
