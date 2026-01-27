@@ -88,7 +88,7 @@ AutoML-Streamlit/
 
 git clone https://github.com/your-username/AutoML-Streamlit.git
 cd AutoML-Streamlit
-
+---
 ###🧪 Usage
 
 1. Upload a CSV file
@@ -97,7 +97,7 @@ cd AutoML-Streamlit
 4. View model performance and best model
 5. Enter new feature values for prediction
 6. Download the trained model
-
+---
 ###📸 Screenshots / Demo
 
 1. Add screenshots of:
@@ -105,7 +105,7 @@ cd AutoML-Streamlit
 3. Model comparison table
 4. Feature importance graph
 5. Prediction output
-
+---
 ###🔮 Future Improvements
 
 1. Hyperparameter tuning
@@ -114,13 +114,13 @@ cd AutoML-Streamlit
 4. Support for larger datasets
 5. Cloud deployment (Streamlit Cloud)
 6. Auto feature scaling and encoding
-
+---
 ###👤 Author
 
 Himanshu Singh
 🎓 Data Analytics & Machine Learning Enthusiast
 📧 Email: himanshusinghchandel5555@gmail.com
-
+---
 ###⭐ If you like this project
 
 Give it a ⭐ on GitHub — it motivates me to build more!
@@ -131,3 +131,4 @@ streamlit
 pandas
 numpy
 scikit-learn
+---
