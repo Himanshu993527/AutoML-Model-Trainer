@@ -85,7 +85,7 @@ AutoML-Streamlit/
 
 
 ### 1️⃣ Clone the repository
-``bash
+
 git clone https://github.com/your-username/AutoML-Streamlit.git
 cd AutoML-Streamlit
 
@@ -119,15 +119,14 @@ cd AutoML-Streamlit
 
 Himanshu Singh
 🎓 Data Analytics & Machine Learning Enthusiast
-📧 Email: himanshusinghchandel@gmail.com
+📧 Email: himanshusinghchandel5555@gmail.com
 
 ###⭐ If you like this project
 
 Give it a ⭐ on GitHub — it motivates me to build more!
----
+
 ## 🧾 ALSO ADD THIS FILE (IMPORTANT)
 ### 📄 `requirements.txt`
-```txt
 streamlit
 pandas
 numpy
