@@ -1,5 +1,5 @@
 # AutoML-Model-Trainer
-An end-to-end Auto Machine Learning web application built using **Streamlit** and **Scikit-Learn** that allows users to upload a dataset, automatically analyze it, train multiple ML models, evaluate performance, select the best model, and make predictions — all without writing ML code.
+An end-to-end Auto Machine Learning web application built using **Streamlit** and **Scikit-Learn** that allows users to upload a dataset, automatically analyze it, train multiple ML models, evaluate performance, select the best model, and make predictions — all without writing ML code...
 
 ---
 
